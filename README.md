@@ -1,5 +1,7 @@
 # Evil Zhao 赵家之恶
 
+中文 | [English](README.en.md)
+
 中国赵老爷及下面的习黑帮之恶。
 
 ## 受害者

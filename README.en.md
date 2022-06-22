@@ -1,6 +1,6 @@
 # Evil Zhao
 
-The sins of privileged Chinese politicians and their gangs
+ESU wiki founding committe (2019-) https://typcn.org
 
 ## Victims
 
@@ -12,13 +12,9 @@ He was the server operator and DMCA agent of ESU wiki (lit. 'Vulgar Wiki') and h
 
 He was brutally tortured during the investigation. The police officers beat him so hard that he was sent to ICU. Information can be seen in [Niu's letter of grievance](至各位用户、客户的信以及个人情况声明.md).
 
-### [AkechiSatori](https://github.com/AkechiSatori) - Luoan Chen
+### DELETED
 
-A crossdresser who started the well-known cross[dress](https://github.com/Komeiji-Satori/Dress)ing project. He (male on ID card) was released on bail for hacking JISUAPI's servers. He also worked as a PHP programmer for `OTOMADS.com` (Jike Tech, HK). Arrested in Oct, 2019.
-
-First arrested for ~hacking~ disclosing the fact that JISUAPI had been caching numerous citizen information on their servers.
-
-Now arrested for buying and transferring the domain of ESU wiki (`esu.wiki`) to typcn, plus being sold out by other ESU staff.
+DELETED (this guy has been released and is safe now)
 
 ## Timeline of Events
 

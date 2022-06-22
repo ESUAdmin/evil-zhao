@@ -2,11 +2,13 @@
 
 中文 | [English](README.en.md)
 
-中国赵老爷及下面的习黑帮之恶。
+恶俗维基制作委员会（2019-） https://typcn.org/
 
 ## 受害者
 
 ### [typcn](https://github.com/typcn)（牛腾宇）
+
+https://www.ppdcecc.gov/ppd?id=result&number=2021-00062
 
 技术高手，曾揭露支付宝隐私门事件，并登上CCTV，于2019年8月底被黑警抓捕。
 
